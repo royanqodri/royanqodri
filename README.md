@@ -24,10 +24,12 @@
 ### 🌟 Skills
 
 - **Languages**: Golang
-- **Frameworks**: Echo, GORM
-- **Databases**: MySQL
+- **Frameworks**: Echo, GIN
+- **ORM** : GORM
+- **Databases**: MySQL (MySQL Workbanch), PostgreSQL (Dbeaver), 
 - **No Databases** : Redis
-- **Tools**: Docker, GCP, AWS
+- **Tools Deployment**: Docker, Docker Hub, GCP, AWS
+- **Open API** : Sweager Open API`s
 - **Other**: RESTful APIs, Microservices, Clean Architecture
 
 ---
