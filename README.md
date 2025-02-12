@@ -30,7 +30,7 @@
 - **No Databases** : Redis
 - **Tools Deployment**: Docker, Docker Hub, GCP, AWS, Portainer, 
 - **Open API** : Sweager Open API`s
-- **Tools Image /Sound BE to database** : Base64, binnary, EC2 / S3 AWS
+- **Tools Image /Sound/ file/ other BE to database** : Base64, binnary, EC2 / S3 AWS
 - **Tools Notification** : SSE, Webshochet, logger (logrus) to discord etc
 - **Other**: RESTful APIs Developers, Microservices, Clean Architecture
 
