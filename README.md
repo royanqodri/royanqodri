@@ -28,10 +28,10 @@
 - **ORM** : GORM
 - **Databases**: MySQL (MySQL Workbanch), PostgreSQL (Dbeaver), 
 - **No Databases** : Redis
-- **Tools Deployment**: Docker, Docker Hub, GCP, AWS, Portainer, 
+- **Tools Deployment**: Docker, Docker Hub, GCP, AWS, Portainer, Jenkins
 - **Open API** : Sweager Open API`s
 - **Tools Image /Sound/ file/ other BE to database** : Base64, binnary, EC2 / S3 AWS
-- **Tools Notification** : SSE, Webshochet, logger (logrus) to discord etc
+- **Tools Notification** : SSE, Webshochet, logger (logrus) etc
 - **Other**: RESTful APIs Developers, Microservices, Clean Architecture
 
 ---
