@@ -12,7 +12,7 @@ I build production-grade APIs and scalable backend systems in Go. Right now I'm 
 - 🧱 I like clean, layered architecture (`controller → service → repository`), env-driven config, documented APIs, and the operational details (logging, graceful shutdown, timeouts) done from day one.
 - 🤖 Exploring AI integration: **Meta AI, OpenAI, Anthropic Claude, Google Gemini, and GroqCloud**, etc, voice and image pipelines, and n8n workflow automation.
 - 🌱 Always learning containerization, microservices, and cloud-native technologies.
-- 🤝 Open to collaboration and open-source contributions.
+- 🤝 Open to collaboration and Freelance contributions.
 
 ---
 
