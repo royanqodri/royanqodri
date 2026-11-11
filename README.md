@@ -1,38 +1,43 @@
-# 👋 Hi there! I'm ROYAN (Achmad Royan Qodri Ramadhani)
+# 👋 Hi, I'm Royan
 
-## 🛠️ Backend Developer & Tech Enthusiast
+**Achmad Royan Qodri Ramadhani** · Backend Engineer | Golang, AI Integration & AI Automation · Lumajang, East Java 🇮🇩
+
+I build production-grade APIs and scalable backend systems in Go. Right now I'm developing a **Fleet Management System for mining operations** at Eterno Global Technologies, and in my spare time I explore how to bring **LLMs and workflow automation** into real-world applications.
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🌱 Passionate about backend development and technology.
-- 💡 Skilled in Golang, RESTful APIs, and Database Design.
-- 🌐 Exploring containerization, microservices, and cloud-native technologies.
-- 📚 Continuously learning to adapt to new challenges.
-- 🤝 Open to collaboration and contributions to open-source projects.
+- 🚛 Backend Engineer with close to 3 years of experience, focused on database optimization, reporting, and scheduling features for fleet and mining equipment data.
+- 🧱 I like clean, layered architecture (`controller → service → repository`), env-driven config, documented APIs, and the operational details (logging, graceful shutdown, timeouts) done from day one.
+- 🤖 Exploring AI integration: **Meta AI, OpenAI, Anthropic Claude, Google Gemini, and GroqCloud**, etc, voice and image pipelines, and n8n workflow automation.
+- 🌱 Always learning containerization, microservices, and cloud-native technologies.
+- 🤝 Open to collaboration and open-source contributions.
+
+---
+
+### 🌟 Tech Stack
+
+| Area | Tools |
+|---|---|
+| **Language** | Go (Golang) |
+| **Frameworks** | Gin, Echo |
+| **ORM** | GORM |
+| **Databases** | PostgreSQL (DBeaver), MySQL (MySQL Workbench), Redis |
+| **Deployment** | Docker, Docker Hub, GCP, AWS (EC2, S3), Portainer, Jenkins, GitHub Actions |
+| **API docs** | Swagger / OpenAPI |
+| **Real-time and notifications** | WebSocket, SSE, Redis pub/sub, Logrus (structured logging) |
+| **Auth** | JWT, OAuth2 |
+| **Files and media** | Base64, binary uploads, S3 |
+| **AI and automation** | LLM integration **Meta AI, OpenAI, Claude, Gemini, Groq**, n8n, Telegram Bot API, WA Busines AI, etc. |
+| **Practices** | RESTful APIs, microservices, clean architecture, Git |
 
 ---
 
 ### 📫 Connect with Me
 
-- LinkedIn: [royanqodri](https://www.linkedin.com/in/royanqodri/)
-- Instagram: [@ramadhani_qodri1](https://www.instagram.com/ramadhani_qodri1/)
-- Email: [royanqodri@gmail.com](mailto:royanqodri@gamil.com)
----
+- 💼 LinkedIn: [royanqodri](https://www.linkedin.com/in/royanqodri/)
+- 📧 Email: [royanqodri@gmail.com](mailto:royanqodri@gmail.com)
+- 📸 Instagram: [@ramadhani_qodri1](https://www.instagram.com/ramadhani_qodri1/)
 
-### 🌟 Skills
-
-- **Languages**: Golang
-- **Frameworks**: Echo, GIN
-- **ORM** : GORM
-- **Databases**: MySQL (MySQL Workbanch), PostgreSQL (Dbeaver), 
-- **No Databases** : Redis
-- **Tools Deployment**: Docker, Docker Hub, GCP, AWS, Portainer, Jenkins
-- **Open API** : Sweager Open API`s
-- **Tools Image /Sound/ file/ other BE to database** : Base64, binnary, EC2 / S3 AWS
-- **Tools Notification** : SSE, Webshochet, logger (logrus) etc
-- **Other**: RESTful APIs Developers, Microservices, Clean Architecture
-
----
-
+Always happy to talk about backend architecture, AI integration, or workflow automation. 💬
